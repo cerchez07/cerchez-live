@@ -22,6 +22,10 @@ header img {
     max-height: 400px;
  }
 
+ .avatar {
+     cursor: grab;
+ }
+
  .full-background {
     background-color: #1EB2FC;
  }
