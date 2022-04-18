@@ -15,6 +15,10 @@ header {
     margin: 0 auto;
 }
 
+header p {
+    margin: .5rem;
+}
+
 header img {
     border-radius: 50%;
     display: block;
